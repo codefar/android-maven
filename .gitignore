@@ -1,0 +1,6 @@
+target
+gen-external-apklibs
+my-android-application.iml
+.DS_Store
+.idea
+default.properties
